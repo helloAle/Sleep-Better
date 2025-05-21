@@ -85,6 +85,7 @@ Abra um Pull Request para revisão
 | D     | Deleted             | Deletado e staged              |
 | ??    | Untracked           | Não rastreado                  |
 | U     | Unmerged (conflito) | Conflito não resolvido         |
+| R     | Renamed             | Arquivo foi renomeado ou movido|
 
 
 Licença
